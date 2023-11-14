@@ -13,3 +13,11 @@
   width: 100%;
   height: auto;
 }
+
+.material-icons{
+  cursor: pointer;
+}
+
+#readmore {
+  float: right;
+}
